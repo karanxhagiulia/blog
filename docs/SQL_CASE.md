@@ -50,4 +50,4 @@ The CASE clause is often used in conjunction with the THEN and ELSE clauses to c
 
   
 
-\[For more info, go to the w3school tutorial\]([https://www.w3schools.com/sql/sql\_case.asp](https://www.w3schools.com/sql/sql_case.asp))
+[For more info, go to the w3school tutorial]([https://www.w3schools.com/sql/sql\_case.asp](https://www.w3schools.com/sql/sql_case.asp))
