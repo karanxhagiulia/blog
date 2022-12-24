@@ -63,3 +63,5 @@ FROM Books
 LEFT JOIN Authors ON Books.author = Authors.id
 ``
 ```
+
+![image](https://user-images.githubusercontent.com/96819403/209449707-703c5d70-1d32-4c4f-8f13-373e888d2417.png)
